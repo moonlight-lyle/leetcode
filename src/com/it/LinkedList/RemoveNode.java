@@ -27,11 +27,5 @@ public class RemoveNode {
         node.next=nextNode.next;
     }
 
-    public class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int x) {
-            val = x;
-        }
-    }
+
 }
