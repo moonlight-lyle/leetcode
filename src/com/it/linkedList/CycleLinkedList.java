@@ -1,6 +1,4 @@
-package com.it.LinkedList;
-
-import java.util.List;
+package com.it.linkedList;
 
 /**
  * 判断一个链表是否有环

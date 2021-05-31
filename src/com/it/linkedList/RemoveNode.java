@@ -1,6 +1,4 @@
-package com.it.LinkedList;
-
-import java.sql.SQLOutput;
+package com.it.linkedList;
 
 /**
  * 删除链表中的节点
